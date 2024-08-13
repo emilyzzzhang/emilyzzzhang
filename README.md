@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emily! <br/><a href="https://github.com/emilyzzzhang">Programmer</a>, <a href="[https://www.linkedin.com/in/joshmadakor/](https://www.linkedin.com/in/emily-zhang-0ba28b275/)">Software Developer</a>
+<h1>Hi, I'm Emily! <br/><a href="https://github.com/emilyzzzhang">Programmer</a>, <a href="https://www.linkedin.com/in/emily-zhang-0ba28b275/">Software Developer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
