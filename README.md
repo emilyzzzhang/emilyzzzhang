@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="Header Banner"/>
+
 # 🌸 Hey! I'm Emily Zhang <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="40" />
 
 <div align="left">
@@ -47,12 +49,10 @@
 </p>
 
 
-
 ## 📫 Let's Connect!
 * 💌 Email: zhangemily0820@gmail.com
 * 🔗 LinkedIn: [Emily Zhang](https://www.linkedin.com/in/emilyzzzhang3/)  
 * 🐙 GitHub: [@emilyzzzhang](https://github.com/emilyzzzhang)
-
 
 
 ## 💻 Tech Stack:
@@ -62,10 +62,19 @@
 </div>
 
 
+<br/>
+
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="hello cat waving" />
 </p>
 
-![visitors](https://komarev.com/ghpvc/?username=emilyzzzhang&color=blueviolet&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emilyzzzhang&color=blueviolet&style=flat-square" />
+</p>
 
+<br/>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="Footer Banner"/>
+</p>
 
