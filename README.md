@@ -9,7 +9,7 @@
   <p><strong>💻 Programming Languages:</strong> Python, C++, JavaScript, Bash, HTML/CSS, SQL, R</p>
 </div>
 
-## 💼 Positions & Experience
+## 💼 Experience & Internships
 - **Software Developer Intern**: [@Google](https://about.google/), **Summer 2025**  
   AR Team · 🛠️ C++, Google Test  
 
@@ -26,11 +26,14 @@
 
 ## ✨ Check out my projects:
 
-**[Paws in Peril](https://github.com/Negar-Badr/C303-project)** - Cozy pixel game where you rescue animals before the hunter catches you · ⭐ *One of the best class projects in COMP 303 (Software Design)*
+**[Paws in Peril](https://github.com/Negar-Badr/C303-project)** - Cozy pixel game where you rescue animals before the hunter catches you 
+  - ⭐ *One of the best class projects in COMP 303 (Software Design)*
 
-**[Looksy](https://github.com/pearjuicee/Looksy)** - Virtual try-on tool · 🏆 *McHacks 12 People's Choice Winner*
+**[Looksy](https://github.com/pearjuicee/Looksy)** - Virtual try-on tool 
+  - 🏆 *McHacks 12 People's Choice Winner*
 
-**[Lazy Eats](https://github.com/EdiTheBacon/LazyEats)** - Meal planner that finds recipes near grocery stores · 🥇 *McWiCS Crowd's Choice Winner*
+**[Lazy Eats](https://github.com/EdiTheBacon/LazyEats)** - Meal planner that finds recipes near grocery stores 
+  - 🥇 *McWiCS Crowd's Choice Winner*
 
 **[My Portfolio](https://emilyzzzhang.github.io/)** - Personal site showcasing my projects & style
 
