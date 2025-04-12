@@ -1,6 +1,6 @@
 # 🌸 Hey Hello Hi! I'm Emily Zhang <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="40" />
 
-I'm currently pursuing a Bachelor of Science degree at McGill University, majoring in Computer Science & Statistics, with a minor in Entrepreneurship. I enjoy building creative tools, coding cozy games, and learning something new every day 🧠
+I'm currently studying Computer Science at McGill University. I enjoy building creative tools, coding cozy games, and learning something new every day 🧠
 
 * 💻 Programming Languages: Python, C++, JavaScript, Bash, HTML/CSS, SQL, R  
 
