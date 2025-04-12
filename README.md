@@ -1,13 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="Header Banner"/>
-
-# 🌸 Hey! I'm Emily Zhang <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="40" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=🌸+Hey!+I'm+Emily+Zhang" alt="Typing SVG" />
 <div align="left">
   <img align="right" src="https://github.com/user-attachments/assets/cbea1b39-34f0-4124-9114-1fb7317d47fb" width="130" alt="cozy gif">
-
   <p><strong>I'm currently studying Computer Science at McGill University.</strong>  
   I enjoy building creative tools, coding cozy games, and learning something new every day 🧠</p>
-
   <p><strong>💻 Programming Languages:</strong> Python, C++, JavaScript, Bash, HTML/CSS, SQL, R</p>
 </div>
 
