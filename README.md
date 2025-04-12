@@ -1,9 +1,13 @@
-# 🌸 Hey Hello Hi! I'm Emily Zhang <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="40" />
+# 🌸 Hey! I'm Emily Zhang <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="40" />
 
-I'm currently studying Computer Science at McGill University. I enjoy building creative tools, coding cozy games, and learning something new every day 🧠
+<div align="left">
+  <img align="right" src="https://github.com/user-attachments/assets/cbea1b39-34f0-4124-9114-1fb7317d47fb" width="130" alt="cozy gif">
 
-* 💻 Programming Languages: Python, C++, JavaScript, Bash, HTML/CSS, SQL, R  
+  <p><strong>I'm currently studying Computer Science at McGill University.</strong>  
+  I enjoy building creative tools, coding cozy games, and learning something new every day 🧠</p>
 
+  <p><strong>💻 Programming Languages:</strong> Python, C++, JavaScript, Bash, HTML/CSS, SQL, R</p>
+</div>
 
 ## 💼 Positions & Experience
 - **Software Developer Intern**: [@Google](https://about.google/), **Summer 2025**  
@@ -45,6 +49,7 @@ I'm currently studying Computer Science at McGill University. I enjoy building c
 * 💌 Email: zhangemily0820@gmail.com
 * 🔗 LinkedIn: [Emily Zhang](https://www.linkedin.com/in/emilyzzzhang3/)  
 * 🐙 GitHub: [@emilyzzzhang](https://github.com/emilyzzzhang)
+
 
 
 ## 💻 Tech Stack:
