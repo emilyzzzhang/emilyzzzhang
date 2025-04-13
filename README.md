@@ -7,8 +7,8 @@
 <div align="left">
   <img align="right" src="https://github.com/user-attachments/assets/cbea1b39-34f0-4124-9114-1fb7317d47fb" width="130" alt="cozy gif">
   <p><strong>I'm currently studying Computer Science at McGill University.</strong>  
-  I enjoy building creative tools, coding cozy games, and learning something new every day 🧠</p>
-  <p><strong>💻 Programming Languages:</strong> Python, C++, JavaScript, Bash, HTML/CSS, SQL, R</p>
+  I love coding and enjoy learning new things everyday 🧠</p>
+  <p><strong>💻 Programming Languages:</strong> Python, C++, C, Java, Bash, JavaScript, HTML/CSS, SQL, R</p>
 </div>
 
 ## 💼 Experience & Internships
@@ -19,7 +19,7 @@
   USD Team · Worked on Maya & 3ds Max USD integrations (light linking)  
   🛠️ Tools: C++, Python, Qt 
 
-- **Undergraduate Research Assistant**: McGill – Laboratory of Advanced Technology (Jewish Rehab Hospital), **Summer 2024**  
+- **Undergraduate Research Assistant**: [@McGill](https://atrehab.ca/) (in the Jewish Rehabilitation Hospital), **Summer 2024**  
   Built rehabilitation software using motion capture data (Vicon, Xsens IMU)  
 
 - **Facilitator**: McGill Girls Who Code, **Winter 2024**  
@@ -28,18 +28,18 @@
 
 ## ✨ Check out my projects:
 
-**[Paws in Peril](https://github.com/Negar-Badr/C303-project)** - Cozy pixel game where you rescue animals before the hunter catches you 
-  - ⭐ *One of the best class projects in COMP 303 (Software Design)*
+**[Paws in Peril](https://github.com/Negar-Badr/C303-project)** - Cute cozy pixel game where you have to rescue animals before the hunter catches you 
+  - ⭐ *Awarded one of the best class projects in COMP 303 (Software Design)*
 
-**[Looksy](https://github.com/pearjuicee/Looksy)** - Virtual try-on tool 
+**[Looksy](https://github.com/pearjuicee/Looksy)** - Virtual try-on clothes tool 
   - 🏆 *McHacks 12 People's Choice Winner*
 
-**[Lazy Eats](https://github.com/EdiTheBacon/LazyEats)** - Meal planner that finds recipes near grocery stores 
-  - 🥇 *McWiCS Crowd's Choice Winner*
+**[Lazy Eats](https://github.com/EdiTheBacon/LazyEats)** - Meal planner that finds recipes and ingredients for you, as well as nearby grocery stores 
+  - 🥇 *McWiCS Hacks Crowd's Choice Winner*
 
-**[My Portfolio](https://emilyzzzhang.github.io/)** - Personal site showcasing my projects & style
+**[My Portfolio](https://emilyzzzhang.github.io/)** - My personal site 
 
-**[Weather App](https://emilyzzzhang.github.io/weather_app/)** - Clean, real-time weather forecast, OpenWeather API
+**[Weather App](https://emilyzzzhang.github.io/weather_app/)** - Real-time weather forecast, using OpenWeather API
 
 
 ## 🐾 A peek at my game dev projects:
