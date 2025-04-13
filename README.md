@@ -75,6 +75,6 @@
 <br/>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="Footer Banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFC5D3&height=120&section=footer" alt="Footer Banner"/>
 </p>
 
