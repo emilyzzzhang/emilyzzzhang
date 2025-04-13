@@ -1,7 +1,7 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="Header Banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFC5D3&height=120&section=header" alt="Header Banner"/>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=700&lines=🌸+Hey!+I'm+Emily+Zhang+—+I'm+a+Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFC5D3&width=700&lines=🌸+Hey!+I'm+Emily+Zhang+—+I'm+a+Software+Developer" alt="Typing SVG" />
 </p>
 
 <div align="left">
