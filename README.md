@@ -49,12 +49,6 @@
 </p>
 
 
-## 📫 Let's Connect!
-* 💌 Email: zhangemily0820@gmail.com
-* 🔗 LinkedIn: [Emily Zhang](https://www.linkedin.com/in/emilyzzzhang3/)  
-* 🐙 GitHub: [@emilyzzzhang](https://github.com/emilyzzzhang)
-
-
 ## 💻 Tech Stack:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,react,flask,qt" height="30" />
@@ -62,19 +56,29 @@
 </div>
 
 
-<br/>
+## 📊 My Stats
+
+<div align="center">
+
+  <img height="150" src="https://streak-stats.demolab.com/?user=emilyzzzhang&theme=tokyonight" alt="GitHub Streak"/>
+
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=emilyzzzhang&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyzzzhang&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages"/>
+
+</div>
+
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="hello cat waving" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="hello cat waving" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emilyzzzhang&color=blueviolet&style=flat-square" />
 </p>
 
-<br/>
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFC5D3&height=120&section=footer" alt="Footer Banner"/>
 </p>
+
 
