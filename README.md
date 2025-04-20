@@ -37,7 +37,7 @@
 **[Lazy Eats](https://github.com/EdiTheBacon/LazyEats)** - Meal planner that finds recipes and ingredients for you, as well as nearby grocery stores 
   - 🥇 *McWiCS Hacks Crowd's Choice Winner*
 
-**[My Portfolio](https://cozy-pomodoro-emilyzzzhang.onrender.com/)** - Made a pomodoro timer to help me study :)
+**[Pomodoro Time](https://cozy-pomodoro-emilyzzzhang.onrender.com/)** - Made a pomodoro timer to help me study :)
 
 **[My Portfolio](https://emilyzzzhang.github.io/)** - My personal site 
 
