@@ -66,7 +66,7 @@
 
   <!-- <img height="150" src="https://github-readme-stats.vercel.app/api?username=emilyzzzhang&show_icons=true&theme=tokyonight" alt="GitHub Stats"/> -->
 
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyzzzhang&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <!-- <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyzzzhang&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages"/> -->
 
 </div>
 
