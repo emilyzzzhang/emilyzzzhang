@@ -58,17 +58,7 @@
 </div>
 
 
-## 📊 My Stats
 
-<div align="center">
-
-  <img height="150" src="https://streak-stats.demolab.com/?user=emilyzzzhang&theme=tokyonight" alt="GitHub Streak"/>
-
-  <!-- <img height="150" src="https://github-readme-stats.vercel.app/api?username=emilyzzzhang&show_icons=true&theme=tokyonight" alt="GitHub Stats"/> -->
-
-  <!-- <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyzzzhang&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages"/> -->
-
-</div>
 
 
 <p align="center">
