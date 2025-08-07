@@ -20,7 +20,7 @@
   🛠️ Tools: C++, Python, Qt 
 
 - **Undergraduate Research Assistant**: [@McGill](https://atrehab.ca/) (in the Jewish Rehabilitation Hospital), **Summer 2024**  
-  Built rehabilitation software using motion capture data (Vicon, Xsens IMU)  
+  Built rehabilitation software using motion capture data (IMU)  
 
 - **Facilitator**: McGill Girls Who Code, **Winter 2024**  
   Taught Python & mentored high school students in programming  
