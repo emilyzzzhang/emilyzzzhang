@@ -34,9 +34,6 @@
 **[Looksy](https://github.com/pearjuicee/Looksy)** - Virtual try-on clothes tool 
   - 🏆 *McHacks 12 People's Choice Winner*
 
-**[Lazy Eats](https://github.com/EdiTheBacon/LazyEats)** - Meal planner that finds recipes and ingredients for you, as well as nearby grocery stores 
-  - 🥇 *McWiCS Hacks Crowd's Choice Winner*
-
 **[Pomodoro Time](https://cozy-pomodoro-emilyzzzhang.onrender.com/)** - Made a pomodoro timer to help me study :)
 
 **[My Portfolio](https://emilyzzzhang.github.io/)** - My personal site 
