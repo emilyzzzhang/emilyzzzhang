@@ -13,7 +13,7 @@
 
 ## 💼 Experience & Internships
 - **Software Developer Intern**: [@Google](https://about.google/), **Summer 2025**  
-  AR Team · 🛠️ C++, Python, Google Test  
+  AR Team · 🛠️ Python
 
 - **Software Developer Intern**: [@Autodesk](https://www.autodesk.com/), **Fall 2024**  
   USD Team · Worked on Maya & 3ds Max USD integrations (light linking)  
