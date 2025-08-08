@@ -44,7 +44,7 @@
 ## 🐾 A peek at my game dev projects:
 
 <p align="center">
-  <img width="478" alt="Screenshot 2025-04-12 at 5 39 18 PM" src="https://github.com/user-attachments/assets/7f24ad09-4967-4bac-be85-91fc2109fdf3" />
+  <img width="501" height="530" alt="Screenshot 2025-08-07 at 9 15 13 PM" src="https://github.com/user-attachments/assets/b8286b37-c2c2-4b86-aa71-ce022b1c0e33" />
 </p>
 
 
