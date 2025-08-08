@@ -43,9 +43,9 @@
 
 ## 🐾 A peek at my game dev projects:
 
-<p align="center">
-  <img width="501" height="530" alt="Screenshot 2025-08-07 at 9 15 13 PM" src="https://github.com/user-attachments/assets/b8286b37-c2c2-4b86-aa71-ce022b1c0e33" />
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/37faef38-b989-430d-b767-00c11d10dca9" alt="demo" style="width:60%;"/>
+</div>
 
 
 ## 💻 Tech Stack:
