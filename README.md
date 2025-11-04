@@ -8,7 +8,7 @@
   <img align="right" src="https://github.com/user-attachments/assets/cbea1b39-34f0-4124-9114-1fb7317d47fb" width="130" alt="cozy gif">
   <p><strong>I'm currently studying Computer Science at McGill University.</strong>  
   I love coding and enjoy learning new things everyday 🧠</p>
-  <p><strong>💻 Programming Languages:</strong> Python, C++, C, Java, JavaScript, HTML/CSS, R, SQL</p>
+  <p><strong>💻 Programming Languages:</strong> Python, C++, C, Java, OCaml, JavaScript, HTML/CSS, R, SQL</p>
 </div>
 
 ## 💼 Experience & Internships
