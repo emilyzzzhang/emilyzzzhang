@@ -8,16 +8,17 @@
   <img align="right" src="https://github.com/user-attachments/assets/cbea1b39-34f0-4124-9114-1fb7317d47fb" width="130" alt="cozy gif">
   <p><strong>I'm currently studying Computer Science at McGill University.</strong>  
   I love coding and enjoy learning new things everyday 🧠</p>
-  <p><strong>💻 Programming Languages:</strong> Python, C++, C, Java, OCaml, JavaScript, HTML/CSS, R, SQL</p>
+  <p><strong>Programming Languages:</strong> Python, C++, C, Java, OCaml, JavaScript, HTML/CSS, R, SQL</p>
 </div>
 
-## 💼 Experience & Internships
+## Experience & Internships
 - **Software Developer Intern**: [@Google](https://about.google/), **Summer 2025**  
-  AR Team · 🛠️ Python, Android Development Tools
+  AR Team · Worked on the color calibration pipeline for the AndroidXR smart glasses and headsets
+  Tools: Python, Android Development 
 
 - **Software Developer Intern**: [@Autodesk](https://www.autodesk.com/), **Fall 2024**  
   USD Team · Worked on Maya & 3ds Max USD integrations (light linking)  
-  🛠️ Tools: C++, Python, Qt 
+  Tools: C++, Python, Qt 
 
 - **Undergraduate Research Assistant**: [@McGill](https://atrehab.ca/) (in the Jewish Rehabilitation Hospital), **Summer 2024**  
   Built rehabilitation software using motion capture data (IMU)  
@@ -26,13 +27,13 @@
   Taught Python & mentored high school students in programming  
 
 
-## ✨ Check out my projects:
+## Check out my projects:
 
 **[Paws in Peril](https://github.com/Negar-Badr/C303-project)** - Cute cozy pixel game where you have to rescue animals before the hunter catches you 
-  - ⭐ *Awarded one of the best class projects in COMP 303 (Software Design)*
+  - *Awarded one of the best class projects in COMP 303 (Software Design)*
 
 **[Looksy](https://github.com/pearjuicee/Looksy)** - Virtual try-on clothes tool 
-  - 🏆 *McHacks 12 People's Choice Winner*
+  - *McHacks 12 People's Choice Winner*
 
 **[Pomodoro Time](https://cozy-pomodoro-emilyzzzhang.onrender.com/)** - Made a pomodoro timer to help me study :)
 
@@ -41,14 +42,14 @@
 **[Weather App](https://emilyzzzhang.github.io/weather_app/)** - Real-time weather forecast, using OpenWeather API
 
 
-## 🐾 A peek at my game dev projects:
+## A peek at my game dev projects:
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/37faef38-b989-430d-b767-00c11d10dca9" alt="demo" style="width:60%;"/>
 </div>
 
 
-## 💻 Tech Stack:
+## Tech Stack:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,react,flask,qt" height="30" />
   <img src="https://skillicons.dev/icons?i=aws,git,github,figma,vscode" height="30" />
