@@ -49,6 +49,12 @@
 </div>
 
 
+## Contributions
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CryAndRRich/CryAndRRich/output/github-contribution-grid-snake.svg" />
+</table>
+
+
+
 ## Tech Stack:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,react,flask,qt" height="30" />
