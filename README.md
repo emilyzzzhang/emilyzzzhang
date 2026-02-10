@@ -28,6 +28,7 @@
 
 
 ## Check out my projects:
+**[Innerspace](https://github.com/pearjuicee/Innerspace)** - Journal to keep everyday stories. 
 
 **[Paws in Peril](https://github.com/Negar-Badr/C303-project)** - Cute cozy pixel game where you have to rescue animals before the hunter catches you 
   - *Awarded one of the best class projects in COMP 303 (Software Design)*
