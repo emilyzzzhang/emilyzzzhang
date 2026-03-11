@@ -33,14 +33,12 @@
 **[Paws in Peril](https://github.com/Negar-Badr/C303-project)** - Cute cozy pixel game where you have to rescue animals before the hunter catches you 
   - *Awarded one of the best class projects in COMP 303 (Software Design)*
 
-**[Looksy](https://github.com/pearjuicee/Looksy)** - Virtual try-on clothes tool 
-  - *McHacks 12 People's Choice Winner*
-
 **[Pomodoro Time](https://github.com/emilyzzzhang/Pomodoro)** - Made a pomodoro timer to help me study :)
 
 **[My Portfolio](https://emilyzzzhang.github.io/)** - My personal site 
 
-**[Weather App](https://emilyzzzhang.github.io/weather_app/)** - Real-time weather forecast, using OpenWeather API
+**[Looksy](https://github.com/pearjuicee/Looksy)** - Virtual try-on clothes tool 
+  - *McHacks 12 People's Choice Winner*
 
 
 ## A peek at my game dev projects:
