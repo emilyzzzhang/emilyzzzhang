@@ -40,7 +40,7 @@
 **[Looksy](https://github.com/pearjuicee/Looksy)** - Virtual try-on clothes tool 
   - *McHacks 12 People's Choice Winner*
 
-**[HexaHaven] (https://github.com/AustinKol/HexaHaven)** - Multiplayer hexgame where you build houses and collect ressources to win. 
+**[HexaHaven](https://github.com/AustinKol/HexaHaven)** - Multiplayer hexgame where you build houses and collect ressources to win. 
 
 
 ## Contributions
