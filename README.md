@@ -71,4 +71,4 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFC5D3&height=120&section=footer" alt="Footer Banner"/>
 </p>
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=Jxl-s&color=green&style=for-the-badge)
