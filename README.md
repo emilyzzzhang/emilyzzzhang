@@ -41,13 +41,6 @@
   - *McHacks 12 People's Choice Winner*
 
 
-## A peek at my game dev projects:
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/37faef38-b989-430d-b767-00c11d10dca9" alt="demo" style="width:60%;"/>
-</div>
-
-
 ## Contributions
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CryAndRRich/CryAndRRich/output/github-contribution-grid-snake.svg" />
 </table>
