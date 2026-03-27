@@ -42,6 +42,8 @@
 
 **[HexaHaven](https://github.com/AustinKol/HexaHaven)** - Multiplayer hexgame where you build houses and collect ressources to win. 
 
+**[Money tracker](https://github.com/emilyzzzhang/money_tracker)** - Cute money tracking app to help with expenses. 
+
 
 ## Contributions
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CryAndRRich/CryAndRRich/output/github-contribution-grid-snake.svg" />
