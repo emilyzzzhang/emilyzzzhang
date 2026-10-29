@@ -37,9 +37,6 @@
 
 **[My Portfolio](https://emilyzzzhang.github.io/)** - My personal site 
 
-**[Looksy](https://github.com/pearjuicee/Looksy)** - Virtual try-on clothes tool 
-  - *McHacks 12 People's Choice Winner*
-
 **[HexaHaven](https://github.com/AustinKol/HexaHaven)** - Multiplayer hexgame where you build houses and collect ressources to win. 
 
 **[Money tracker](https://github.com/emilyzzzhang/money_tracker)** - Cute money tracking app to help with expenses. 
