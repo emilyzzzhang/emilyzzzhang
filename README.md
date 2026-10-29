@@ -28,16 +28,16 @@
 
 
 ## Check out my projects:
-**[Innerspace](https://github.com/pearjuicee/Innerspace)** - Journal to keep everyday stories. 
+**[My Portfolio](https://emilyzzzhang.github.io/)** - My personal site 
 
 **[Paws in Peril](https://github.com/Negar-Badr/C303-project)** - Cute cozy pixel game where you have to rescue animals before the hunter catches you 
   - *Awarded one of the best class projects in COMP 303 (Software Design)*
 
+**[HexaHaven](https://github.com/AustinKol/HexaHaven)** - Multiplayer hexgame where you build houses and collect ressources to win. 
+
 **[Pomodoro Time](https://github.com/emilyzzzhang/Pomodoro)** - Made a pomodoro timer to help me study :)
 
-**[My Portfolio](https://emilyzzzhang.github.io/)** - My personal site 
-
-**[HexaHaven](https://github.com/AustinKol/HexaHaven)** - Multiplayer hexgame where you build houses and collect ressources to win. 
+**[Innerspace](https://github.com/pearjuicee/Innerspace)** - Journal to keep everyday stories. 
 
 **[Money tracker](https://github.com/emilyzzzhang/money_tracker)** - Cute money tracking app to help with expenses. 
 
