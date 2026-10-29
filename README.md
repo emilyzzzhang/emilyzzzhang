@@ -13,7 +13,7 @@
 
 ## Experience & Internships
 - **Software Developer Intern**: [@Google](https://about.google/), **Summer 2025**  
-  AR Team · Worked on the color calibration pipeline for the AndroidXR smart glasses and headsets
+  AR Team · Worked on the color calibration pipeline for the AndroidXR smart glasses
   Tools: Python, Android Development 
 
 - **Software Developer Intern**: [@Autodesk](https://www.autodesk.com/), **Fall 2024**  
