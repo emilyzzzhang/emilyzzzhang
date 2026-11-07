@@ -1,33 +1,38 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFC5D3&height=120&section=header" alt="Header Banner"/>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFC5D3&width=700&lines=🌸+Hey!+I'm+Emily+Zhang+—+I'm+a+Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFC5D3&width=700&lines=🌸+Hey!+I'm+Emily+Zhang+-+I'm+a+Software+Developer+🌸" alt="Typing SVG" />
 </p>
 
 <div align="left">
   <img align="right" src="https://github.com/user-attachments/assets/cbea1b39-34f0-4124-9114-1fb7317d47fb" width="130" alt="cozy gif">
   <p><strong>I'm currently studying Computer Science at McGill University.</strong>  
-  I love coding and enjoy learning new things everyday 🧠</p>
-  <p><strong>Programming Languages:</strong> Python, C++, C, Java, OCaml, JavaScript, TypeScript, HTML/CSS, R, SQL</p>
+    I love building things, solving problems, and bringing ideas to life! 
+    Check out <a href="https://emilyzzzhang.github.io/"><strong>my portfolio</strong></a> :)
 </div>
 
 ## Experience & Internships
-- **Software Developer Intern**: [@Google](https://about.google/), **Summer 2025**  
-  AR Team · Worked on the color calibration pipeline for the AndroidXR smart glasses
-  Tools: Python, Android Development 
+- **Software Developer Intern**: [@Google](https://about.google/)  
+  Android XR Team · Worked on the color calibration pipeline for Android XR smart glasses  
+  Tech: Python, NumPy, OpenCV, ADB
 
-- **Software Developer Intern**: [@Autodesk](https://www.autodesk.com/), **Fall 2024**  
+- **Software Developer Intern**: [@Autodesk](https://www.autodesk.com/)  
   USD Team · Worked on Maya & 3ds Max USD integrations (light linking)  
-  Tools: C++, Python, Qt 
+  Tech: C++, Python, Qt, OpenUSD
 
-- **Undergraduate Research Assistant**: [@McGill](https://atrehab.ca/) (in the Jewish Rehabilitation Hospital), **Summer 2024**  
+- **Software Developer Intern**: [@CIBC](https://www.cibc.com/)  
+  AI/ML Team · Worked on RAG pipelines and automated mortgage document validation  
+  Tech: Python, LangChain, Databricks, PySpark, Qdrant
+
+- **Undergraduate Research Assistant**: [@McGill](https://atrehab.ca/) (Jewish Rehabilitation Hospital)  
   Built rehabilitation software using motion capture data (IMU)  
+  Tech: Python, NumPy, Pandas, Vicon
 
-- **Facilitator**: McGill Girls Who Code, **Winter 2024**  
-  Taught Python & mentored high school students in programming  
+- **Facilitator**: McGill Girls Who Code  
+  Taught Python & mentored high school students in programming
 
 
-## Check out my projects:
+## Projects:
 **[My Portfolio](https://emilyzzzhang.github.io/)** - My personal site 
 
 **[AgentOS](https://github.com/emilyzzzhang/agentos)** - 3D office where three AI agents research your questions together and write cited reports.
@@ -44,21 +49,17 @@
 **[Money tracker](https://github.com/emilyzzzhang/money_tracker)** - Cute money tracking app to help with expenses. 
 
 
-## Contributions
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CryAndRRich/CryAndRRich/output/github-contribution-grid-snake.svg" />
-</table>
-
-
 
 ## Tech Stack:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,react,flask,qt" height="30" />
-  <img src="https://skillicons.dev/icons?i=aws,git,github,figma,vscode" height="30" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,go,rust,html,css" height="30" />
+  <img src="https://skillicons.dev/icons?i=react,threejs,flask,qt,pytorch,sklearn,opencv" height="30" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,figma,vscode" height="30" />
+  <br/>
+  <img src="https://img.shields.io/badge/LangChain-555555?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-555555?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-555555?style=flat-square&logo=databricks&logoColor=white" />
 </div>
-
-
-
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="hello cat waving" />
