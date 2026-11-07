@@ -30,6 +30,8 @@
 ## Check out my projects:
 **[My Portfolio](https://emilyzzzhang.github.io/)** - My personal site 
 
+**[AgentOS](https://github.com/emilyzzzhang/agentos)** - 3D office where three AI agents research your questions together and write cited reports.
+
 **[Paws in Peril](https://github.com/Negar-Badr/C303-project)** - Cute cozy pixel game where you have to rescue animals before the hunter catches you 
   - *Awarded one of the best class projects in COMP 303 (Software Design)*
 
