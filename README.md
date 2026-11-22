@@ -11,22 +11,6 @@
     Check out <a href="https://emilyzzzhang.github.io/"><strong>my portfolio</strong></a> :)
 </div>
 
-## Experience & Internships
-- **Software Developer Intern**: [@Google](https://about.google/)  
-  Android XR Team · Worked on the color calibration pipeline for Android XR smart glasses  
-  Tech: Python, NumPy, OpenCV, ADB
-
-- **Software Developer Intern**: [@Autodesk](https://www.autodesk.com/)  
-  USD Team · Worked on Maya & 3ds Max USD integrations (light linking)  
-  Tech: C++, Python, Qt, OpenUSD
-
-- **Undergraduate Research Assistant**: [@McGill](https://atrehab.ca/) (Jewish Rehabilitation Hospital)  
-  Built rehabilitation software using motion capture data (IMU)  
-  Tech: Python, NumPy, Pandas, Vicon
-
-- **Facilitator**: McGill Girls Who Code  
-  Taught Python & mentored high school students in programming
-
 
 ## Projects:
 **[My Portfolio](https://emilyzzzhang.github.io/)** - My personal site 
