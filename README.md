@@ -20,10 +20,6 @@
   USD Team · Worked on Maya & 3ds Max USD integrations (light linking)  
   Tech: C++, Python, Qt, OpenUSD
 
-- **Software Developer Intern**: [@CIBC](https://www.cibc.com/)  
-  AI/ML Team · Worked on RAG pipelines and automated mortgage document validation  
-  Tech: Python, LangChain, Databricks, PySpark, Qdrant
-
 - **Undergraduate Research Assistant**: [@McGill](https://atrehab.ca/) (Jewish Rehabilitation Hospital)  
   Built rehabilitation software using motion capture data (IMU)  
   Tech: Python, NumPy, Pandas, Vicon
